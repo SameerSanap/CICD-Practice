@@ -8,7 +8,7 @@ image:
   repository: sam2630/cicddemo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "35632534929"
+  tag: "35635808645"
 
 ingress:
   enabled: false
