@@ -1,6 +1,6 @@
 # Go Web Application
 
-This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests. Practicing on EKS
+This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests. This repository is also being used to practice Git, GitHub, Docker, Kubernetes and CI/CD workflows.
 
 ## Running the server
 
