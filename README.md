@@ -1,6 +1,14 @@
 # Go Web Application
 
-This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
+This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests. This repository is also being used to practice Git, GitHub, Docker, Kubernetes and CI/CD workflows.
+
+## Footer 
+
+
+## Navigation
+Navigation feature is under development.
+
+
 
 ## Running the server
 
