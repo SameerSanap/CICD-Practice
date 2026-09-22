@@ -2,6 +2,7 @@
 
 This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests. This repository is also being used to practice Git, GitHub, Docker, Kubernetes and CI/CD workflows.
 
+## Footer 
 ## Running the server
 
 To run the server, execute the following command:
